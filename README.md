@@ -1,6 +1,5 @@
 # AHT21
-Library for reading temperature and humidity of with the help of AHT21 sensor using STM32 HAL API
-
+READING Temperature & Humidity of AHT21X Sensor using STM32 { HAL API }
 
 STEPS: ADDING FILE INTO YOUR PROJECT
 1. Add the AHT21.h and AHT21.c file into your project/core/inc and project/core/src respectively.
